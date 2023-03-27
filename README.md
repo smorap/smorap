@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **smorap/smorap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, Me lllamo Sergio Mora</h1>
+<h1 align="center"> Me lllamo Sergio Mora</h1>
 
-<h3 align="center">Full time professor at Pontificia Universidad Javeriana. </h3>
+<h3 align="center"> Me lllamo Sergio Mora </h3>
 
-<h4 align="center">I love birds, photography, astronomy, 3d printing, and hiking.</h4>
+<h4 align="center"> Me lllamo Sergio Mora</h4>
 
-My area of expertise is the digital processing of multidimensional signals such as images and video. I have experience implementing microcontrolled systems for signal processing. As well as complex embedded systems that require the use of low and high level operating systems.
+fjkhgfsjhgfsfg
