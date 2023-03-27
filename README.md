@@ -21,4 +21,6 @@ Here are some ideas to get you started:
 
 <h4 align="center"> I like videogames :joystick:, cars :red_car: and PC stuff :desktop_computer: </h4>
 
-In 2023 i got my degree from 
+
+I'am a 25 years old guy that just got his degree in Electronics Engineer. I really like cars a my dream car is a 350z, i hope one day i can get one in great conditions. I know it is kinda cheap and easy to get one right know, so lets hope when i could afford it the price stays the same as today. Obviously i'm talking about outside Colombia, because this is LATAM so... :pray:.
+
