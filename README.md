@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 <h1 align="center"> Me lllamo Sergio Mora</h1>
 
+<h2 align="center"> Me lllamo Sergio Mora </h2>
+
 <h3 align="center"> Me lllamo Sergio Mora </h3>
 
 <h4 align="center"> Me lllamo Sergio Mora</h4>
