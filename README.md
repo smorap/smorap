@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 <h4 align="center"> I like videogames :joystick:, cars :red_car: and PC stuff :desktop_computer: </h4>
 
 
-I'am a 25 years old guy that just got his degree in Electronics Engineer. I really like cars a my dream car is a 350z, i hope one day i can get one in great conditions. I know it is kinda cheap and easy to get one right know, so lets hope when i could afford its price stays the same as today. Obviously i'm talking about outside Colombia, because this is Latam so... :pray:.
+I'am a 25 years old guy that just got his degree in Electronics Engineer. I really like cars a my dream car is a 350z, i hope one day i can get one in great conditions. I know is kinda cheap and easy to get one right know, so lets hope when i could afford its price stays the same as today. Obviously i'm talking about outside Colombia, because this is Latam so... :pray:.
 
