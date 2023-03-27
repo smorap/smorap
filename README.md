@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">Hi 👋, I'm Francisco Calderon</h1>
+
+<h3 align="center">Full time professor at Pontificia Universidad Javeriana. </h3>
+
+<h4 align="center">I love birds, photography, astronomy, 3d printing, and hiking.</h4>
+
+My area of expertise is the digital processing of multidimensional signals such as images and video. I have experience implementing microcontrolled systems for signal processing. As well as complex embedded systems that require the use of low and high level operating systems.
