@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center"> Me lllamo Sergio Mora</h1>
+<h1 align="center"> Hi!  My name is Sergio Mora :space_invader: </h1>
 
-<h2 align="center"> Me lllamo Sergio Mora </h2>
+<h2 align="center"> Recently i get graduated from University and i thought this would be a great way to write about me and the projects i have made while i was student :nerd_face: </h2>
 
 <h3 align="center"> Me lllamo Sergio Mora </h3>
 
