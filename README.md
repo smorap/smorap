@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 <h4 align="center"> I like videogames :joystick:, cars :red_car: and PC stuff :desktop_computer: </h4>
 
-fjkhgfsjhgfsfg
+In 2023 i got my degree from 
