@@ -17,10 +17,8 @@ Here are some ideas to get you started:
 
 <h1 align="center"> Hi!  My name is Sergio Mora :space_invader: </h1>
 
-<h2 align="center"> Recently i get my degree from University and i thought this would be a great way to write about me and some projects i have made while i was student :nerd_face: </h2>
+<h3 align="center"> Recently i got my degree in Electronic Engineer so i thought this would be a great way to write about me, some projects i made while i was a student :nerd_face: and other stuff related with electronics. :computer: </h3>
 
-<h3 align="center"> Me lllamo Sergio Mora </h3>
-
-<h4 align="center"> Me lllamo Sergio Mora</h4>
+<h4 align="center"> I like videogames :joystick:, cars :red_car: and PC stuff :desktop_computer: </h4>
 
 fjkhgfsjhgfsfg
